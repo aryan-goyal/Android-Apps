@@ -1,6 +1,6 @@
 # Android-Apps
 This repository contains various apps that I have namde over the years.
 
-The first app was a simple score keepr applicastion for basketabll.
+CourtCounter a simple score keepr application for basketabll.
 
-The second is a application for managaing coffee requests for a barista. 
+JustJava is a application for managaing coffee requests for a barista.
